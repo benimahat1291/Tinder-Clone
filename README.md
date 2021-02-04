@@ -5,38 +5,31 @@
 * [Links](#links)
 * [Screenshots](#screenshots)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Technologies Used](#technologies)
 * [Questions](#questions)
 
 ## Description
 
-This is my portfolio Webpage made January 2021. Plese explore my information and projects. 
+This is an app designed to look like Tinder. This does not have full functionalty however the cards are generated from a mongoDB back-end and the use of TinderCards react-library provides the sleak tinder card swipe effect. 
 
 ## Links
 
-[See the Deployed Application](https://benimahat1291.github.io/portfolio2021/)
+[See the Deployed Application](https://tinder-clone-123212.herokuapp.com/)
 
 ## Screenshots
 
 
-![ Search:](public/images/MERN.webm)
-
-
+![ Search:](client/src/images/sc1.png)
+![ Search:](client/src/images/sc2.png)
 
 
 ## Installation Instructions
 
 run "npm i" in the command line
-
-## Usage
-
-Please explore my professional information
  
-
 ## Technologies Used
 
-HTML, CSS, JS, Flexbox
+HTML, CSS, JS, React, mongoDB, tindercards.js
 
 ## Questions
 
